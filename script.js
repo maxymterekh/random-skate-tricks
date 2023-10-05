@@ -2,7 +2,8 @@ const stances = ["regular", "fakie", "switch", "nollie"];
 
 const tricks = ["kickflip", "heelflip", " bs shove it", " fs shove it", "fs 180",
 "bs 180", "varial flip", "casper flip", "ollie", "bs bigspin ", "360 shove it",
-"360 flip", "varial heel ", "hardflip", "inward heel", "lazer flip", "casper heel "];
+"360 flip", "varial heel ", "hardflip", "inward heel", "lazer flip", "casper heel ", "bs 180 kickflip",
+"fs 180 kickflip", "bs 180 heelflip", "fs 180 heelflip"];
  
 const stance = document.getElementById("stance");
 const trick = document.getElementById("trick");
